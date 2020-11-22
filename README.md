@@ -1,6 +1,8 @@
 # Smart Contract ERC20 For Kugula coin with stake 
 
-[![N|Solid](https://kugulacoin.com/logo-256x256.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://kugulacoin.com/logo-256x256.png)](#)
+
+[![N|Solid](https://kugulacoin.com/erc20-eth.png)](#)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) 
 

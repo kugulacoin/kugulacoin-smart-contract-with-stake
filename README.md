@@ -55,8 +55,8 @@ Now edit ./truffle-config.js
 
 > Change your networks as want to deploy your contract
 > 1. Localhost useing ganache https://www.trufflesuite.com/ganache
-> 2. Ropsten.etherscan.io as test network 'https://ropsten.infura.io/v3/'
-> 3. [Etherscan.io] as main network  'https://main.infura.io/v3/'
+> 2. Ropsten.etherscan.io as test network https://ropsten.infura.io/v3/
+> 3. [Etherscan.io] as main network  https://main.infura.io/v3/
 
 ## Deploy your smart contact now
 

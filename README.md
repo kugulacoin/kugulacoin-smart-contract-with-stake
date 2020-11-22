@@ -72,7 +72,7 @@ Github : @sayedsoft
 E-mail : yemen@altiasoft.com.tr
 
 > Not: 
-> Use Visual Studio Code (VS CODE) as code editor You me.
+> Use Visual Studio Code (VS CODE) as code editor for me.
 > You must learn solidity language to customize your smart contract as you want.
 > You must learn nodejs to test your smart contract as you want in localhost.
 > You can use https://remix.ethereum.org/ in your browser to edit or deploy smart contract online.

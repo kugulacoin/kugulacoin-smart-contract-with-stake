@@ -4,7 +4,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) 
 
-Smart Contect ERC20 ethereum using openzeppelin-contracts features
+Smart Contect ERC20 ethereum using openzeppelin-contracts. 
+
+## Features
 
   - Stake system.
   - Daily earning.
@@ -13,14 +15,14 @@ Smart Contect ERC20 ethereum using openzeppelin-contracts features
 
 You can use this Smart Content for free as gift for everyone.
 
-> We can help you to use this smart contect.
-> Don't keep any information you know.
+> We can help you to use this smart contect.\
+> Don't keep any information you know.\
 > We love to share your project for everyone.
 
 Don't forget!!
 
-> “The people who are crazy enough 
-> to think they can change the world 
+> “The people who are crazy enough\
+> to think they can change the world \
 > are the ones who do.” — Steve Jobs
 
 ### Before run Project 
@@ -51,9 +53,9 @@ Now Set MNEMONIC it's mean your private key or MNEMONIC for your wallet you want
 
 Now edit ./truffle-config.js
 
-> Change your networks as want to deploy your contract 
-> 1. Localhost useing ganache https://www.trufflesuite.com/ganache
-> 2. Ropsten.etherscan.io as test network 'https://ropsten.infura.io/v3/'
+> Change your networks as want to deploy your contract\
+> 1. Localhost useing ganache https://www.trufflesuite.com/ganache\
+> 2. Ropsten.etherscan.io as test network 'https://ropsten.infura.io/v3/'\
 > 3. etherscan.io as main network  'https://main.infura.io/v3/'
 
 ### Deploy your smart contact now
@@ -68,10 +70,10 @@ $ truffle deploy
 Github : @sayedsoft
 E-mail : yemen@altiasoft.com.tr
 
-> Not: 
-> Use Visual Studio Code (VS CODE) as code editor for me.
-> You must learn solidity language to customize your smart contract as you want.
-> You must learn nodejs to test your smart contract as you want in localhost.
+> Not: \
+> Use Visual Studio Code (VS CODE) as code editor for me.\
+> You must learn solidity language to customize your smart contract as you want.\
+> You must learn nodejs to test your smart contract as you want in localhost.\
 > You can use https://remix.ethereum.org/ in your browser to edit or deploy smart contract online.
 
 We recommend watching these videos to learn solidity language, blockching, ethereum, truffle and smart contract

@@ -67,8 +67,8 @@ $ truffle deploy
 
 ## For more informations or question please contact us:
 
-Github : [@sayedsoft]\
-E-mail : [yemen@altiasoft.com.tr]
+Github : @sayedsoft\
+E-mail : yemen@altiasoft.com.tr
 
 > Not:\
 > Use Visual Studio Code (VS CODE) as code editor for me.\

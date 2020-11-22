@@ -87,9 +87,9 @@ We recommend watching these videos to learn solidity language, blockching, ether
 
 ## You can review Kugulacoin project 
 
-[![N|Solid](https://kugulacoin.com/1.jpeg)](#)
-[![N|Solid](https://kugulacoin.com/2.jpeg)](#)
-[![N|Solid](https://kugulacoin.com/3.jpeg)](#)
+[![N|Solid](https://kugulacoin.com/1-kugula.jpeg)](#)
+[![N|Solid](https://kugulacoin.com/2-kugula.jpeg)](#)
+[![N|Solid](https://kugulacoin.com/3-kugula.jpeg)](#)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)

@@ -85,7 +85,7 @@ We recommend watching these videos to learn solidity language, blockching, ether
 - https://www.youtube.com/watch?v=WyDrj8jrEjQ&t=732s&ab_channel=DappUniversity
 
 
-## You can review Kugulacoin project 
+## You can review Kugulacoin wallet project 
 
 [![N|Solid](https://kugulacoin.com/1-kugula.jpeg)](#)
 [![N|Solid](https://kugulacoin.com/2-kugula.jpeg)](#)

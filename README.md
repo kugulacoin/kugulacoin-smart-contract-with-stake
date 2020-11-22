@@ -11,13 +11,13 @@ Smart Contect ERC20 ethereum using openzeppelin-contracts features
   - You can change the daily earning rate by owner.
   - You can ersize your total supplay by owner.
 
-You can use this Smart Contect for free it' gift for every one.
+You can use this Smart Content for free as gift for everyone.
 
 > We can help you to use this smart contect.
 > Don't keep any information you know.
 > We love to share your project for everyone.
 
-Don't forget this
+Don't forget!!
 
 > “The people who are crazy enough 
 > to think they can change the world 
@@ -48,10 +48,7 @@ MNEMONIC = ''
 Fot get INFURA_API_KEY you can open new account in https://infura.io/
 Now Set MNEMONIC it's mean your private key or MNEMONIC for your wallet you want to publish your contact from it.
 
-```sh
-$ truffle 
-$ NODE_ENV=production node app
-```
+
 Now edit ./truffle-config.js
 
 > Change your networks as want to deploy your contract 

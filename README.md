@@ -2,7 +2,7 @@
 
 [![N|Solid](https://kugulacoin.com/logo-256x256.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) 
 
 Smart Contect ERC20 ethereum using openzeppelin-contracts features
 
@@ -40,7 +40,7 @@ $ npm install
 
 Now Change .env 
 
-```sh
+```envfile
 INFURA_API_KEY = ''
 MNEMONIC = ''
 ```

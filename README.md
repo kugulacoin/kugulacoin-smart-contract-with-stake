@@ -67,7 +67,7 @@ $ truffle deploy
 
 ## For more informations or question please contact us:
 
-Github : [@sayedsoft]
+Github : [@sayedsoft]\
 E-mail : [yemen@altiasoft.com.tr]
 
 > Not:\
